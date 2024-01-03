@@ -2,6 +2,8 @@ body {
     font-family: 'Arial', sans-serif;
     margin: 0;
     padding: 0;
+    background-color: tomato;
+    border-radius: 6px;
 }
 
 header {
@@ -9,6 +11,8 @@ header {
     color: white;
     text-align: center;
     padding: 20px;
+    background-color: blueviolet;
+    border-radius: 0px 5px 0px 5px;
 }
 
 section {
